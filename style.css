@@ -1,0 +1,244 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100vw;
+}
+.heder{
+    display: flex;
+}
+.logo{
+    color: rgb(27, 84, 22);
+    font-size: 20px;
+    margin: 30px;
+}
+.li{
+    list-style:none;
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+    margin: 40px;
+    margin-left: 850px;
+}
+.li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.content{
+    display: flex;
+    margin-top:40px ;
+}
+.travel{
+    font-size: 32px;
+    justify-content: end;
+    align-items: end;
+    text-align: end;
+}
+.visit{
+    font-size:22px ;
+    justify-content: end;
+    align-items: end;
+    text-align: end;
+    line-height: 22px;
+    margin-top: 8px;
+}
+.big{
+    margin-top: 30px;
+    margin-left: 300px; 
+}
+.btn{
+    color: aliceblue;
+    background-color: rgb(42, 103, 135);
+    padding: 25px;
+    font-size: 19px;
+    margin-left:500px ;
+}
+.btn:hover{
+    background-color: rgb(15, 55, 84);
+}
+.item{
+    font-size: 20px;
+    color: green;
+    text-align: end;
+    margin: 40px;
+    list-style:none;
+}
+.center{
+    display: flex;
+}
+.intro{
+    background-color: aliceblue;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.lahe{
+    color: rgb(54, 144, 138);
+}
+.link{
+    margin-top: 8px;
+}
+.lue{
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.blue{
+    font-size: 20px;
+    color: blue;
+}
+.h5{
+    font-size: 19px;
+    margin-top: 10px;
+}
+.larg{
+    background-color: #f7f7f7;;
+}
+.enter{
+    margin: 90px 90px;
+}
+.on{
+    color: rgb(54, 144, 138);
+}
+.one{
+    margin-left: 90px;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 400px;
+}
+.fi{
+    font-size: 23px;
+}
+.fir{
+    font-size:17px;
+}
+.end{
+    margin: 50px;
+    font-size: 20px;
+}
+.tilaa{
+    color: white;
+    background-color:  rgb(54, 144, 138);
+    padding:20px ;
+    font-size:17px; 
+    margin-top: 30px;
+}
+.tilaa:hover{
+    background-color:rgb(87, 138, 135) ;
+}
+.drive{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.blu{
+    color: #0096ff;;
+}
+.tai{
+    font-size: 20px;
+    margin-top: 22px;
+}
+.part{
+    display: flex;
+    margin-top: 40px;
+    font-size: 21px;
+    margin-left: 250px;
+    gap: 80px;
+}
+.vuoden{
+    margin-top:20px;
+}
+.visit{
+    margin-top:20px ;
+}
+.ends{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 60px;
+}
+.alt{
+    font-size: 20px;
+
+}
+.secbtn{
+    color: white;
+    background-color: #0096ff;
+    padding: 25px;
+    font-size: 17px;
+    margin-top: 40px;
+
+}
+.secbtn:hover{
+    background-color: #2890db
+}
+.title{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.head{
+    list-style:none;
+    display: flex;
+    margin-top:30px ;
+    justify-content: center;
+    gap: 90px;
+}
+.top{
+    margin-top: 50px;
+}
+.futer{
+    height: 80vh;
+    width: 100vw;
+    background-color: #128488;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.futerlogo{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+}
+.write{
+    color: white;
+    font-size: 35px;
+}
+.par{
+    font-size:20px ;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:60px;
+}
+.andbtn{
+    font-size: 19px;
+    padding:12px ;
+    background-color:#128488 ;
+    margin-top:24px ;
+    color:white ;
+}
+.header{
+    justify-content: center;
+    align-items:center ;
+    text-align: center;
+    margin-top: 60px;
+    font-size:20px ;
+    margin-bottom:60px ;
+}
+.and{
+    color: #128488;
+}
